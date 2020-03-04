@@ -3,4 +3,5 @@ body {
     display: grid;
     align-items: start;
     justify-items: center;
+    margin: 30rem;
 }
